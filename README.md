@@ -1,5 +1,5 @@
-# regiongrowing
-regiongrowing algorithm for region base segmentation
+# Regiongrowing
+Regiongrowing algorithm for region base segmentation
 this function take 5 parameters
 and retrun one logical image
 
